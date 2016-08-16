@@ -1,0 +1,19 @@
+#URxvt*scrollTtyOutput: false
+#URxvt*scrollTtyOutput: false
+
+
+
+#URxvt.font: 9x15
+#URxvt.font xft:Terminus:size=16
+#URxvt.font:-*-
+#URxvt.font: -*-terminus-medium-*-*-*-*-140-*-*-*-*-iso8859-1
+
+#URxvt.font: xft:terminus:size=9
+#URxvt.font: ttf:inconsolata:size=9
+
+#Xft dpi 180
+#Xft dpi 100
+
+# cursor
+Xcursor.size: 16
+
