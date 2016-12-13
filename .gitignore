@@ -1,6 +1,8 @@
 *
 
 !*/
+!*/*
+!*/*/*
 #/*/
 #/*/*/
 
@@ -17,14 +19,50 @@
 !.gitignore
 
 
-
+.aws/*
+.cache/*
+.cache/*
+.groovy/*
+.gstreamer-0.10/*
+.keras/*
+.mono/*
+.neo4j/*
+.oracle_jre_usage/*
+.purple/*
+.ssh/*
+.w3m/*
+tmp/*
 .vim/*
+.atom/*
 local/*
 prod/*
 Downloads/*
 .gem/*
 .config/google-chrome/
+.config/chromium/
 .tmux/plugins/*
+.config/*
+.config/fish/*
+.config/fish/fishd.rdebrandt-aem
+
+.IdeaIC2016.1/*
+.IdeaIC2016.2/*
+.IntelliJIdea2016.1/*
+.PyCharm2016.2/*
+.ansible/*
+.bin/*
+.gnome/*
+.icons/*
+.ipython/*
+.java/*
+.local/*
+.mozilla/*
+.mysql/*
+.pki/*
+.rdesktop/*
+.theano/*
+.tmux/*
+.webex/*
 
 
 #!.config/
