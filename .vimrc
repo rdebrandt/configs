@@ -25,6 +25,7 @@ set smarttab
 set expandtab
 set ruler
 set foldmethod=indent
+"set foldmethod=syntax
 set foldlevel=99
 
 nnoremap <space> za
@@ -50,12 +51,12 @@ Plugin 'VundleVim/Vundle.vim'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 
-Plugin 'altercation/vim-colors-solarized'
+" Plugin 'altercation/vim-colors-solarized'
 
 Plugin 'scrooloose/nerdtree'
-Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
-Plugin 'tmhedberg/SimpylFold'
+" Plugin 'vim-airline/vim-airline'
+" Plugin 'vim-airline/vim-airline-themes'
+" Plugin 'tmhedberg/SimpylFold'
 
 
 " All of your Plugins must be added before the following line
@@ -80,6 +81,6 @@ set t_Co=256
 set number        " Show line numbers
 syntax enable     " Use syntax highlighting
 "set background=light
-set background=dark
-let g:solarized_termcolors = 256  " New line!!
-colorscheme solarized
+" set background=dark
+" let g:solarized_termcolors = 256  " New line!!
+" colorscheme solarized
